@@ -1,0 +1,12 @@
+{
+  "name": "ip-intelligence-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
