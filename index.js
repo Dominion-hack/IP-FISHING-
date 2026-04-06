@@ -46,7 +46,6 @@ bot.onText(/\/start/, (msg) => {
 /domain <site>
 /check <ip>
 /help
-©TEMPLEDOMIC TECH©
     `, { parse_mode: "Markdown" });
 });
 
