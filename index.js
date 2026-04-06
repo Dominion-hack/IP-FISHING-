@@ -29,12 +29,24 @@ bot.onText(/\/start/, (msg) => {
     bot.sendMessage(msg.chat.id, `
 👋 Welcome ${msg.from.first_name}!
 
-🌐 *IP Intelligence Bot*
-━━━━━━━━━━━━━━
+         🌐 *IP Intelligence Bot*
+             ━━━━━━━━━━━━━━
+    WELCOME TO TEMPLEDOMIC TECH IP SCANNING MACHINE
+        GIVE ME AN IP ADDRESS I SCAN IN SECONDS
+    DO WELL TO JOIN OUR GROUPS AND CHANNELS
+
+    TELEGRAM CHANNEL  https://t.me/telex_MDn
+    
+    TELEGRAM GROUP    https://t.me/telex_md
+
+    WHATSAPP GROUP    https://chat.whatsapp.com/KXmfveO8ngyHxiIQ5j7pEJ?mode=gi_t
+
+    NOTE ☠️  EVERYTHING USED HERE ARE FOR EDUCATIONAL PURPOSES 
 /ip <ip>
 /domain <site>
 /check <ip>
 /help
+©TEMPLEDOMIC TECH©
     `, { parse_mode: "Markdown" });
 });
 
